@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabina Manning</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+
+        body{
+            background:#101416;
+            color:#f5f5f5;
+            font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            min-height:100vh;
+            text-align:center;
+            padding:40px 20px;
+        }
+
+        .container{
+            max-width:650px;
+        }
+
+        img{
+            width:300px;
+            height:300px;
+            object-fit:cover;
+            border-radius:50%;
+            border:2px solid rgba(255,255,255,.15);
+            box-shadow:0 20px 60px rgba(0,0,0,.5);
+            margin-bottom:30px;
+        }
+
+        h1{
+            font-size:4rem;
+            margin-bottom:20px;
+            letter-spacing:-2px;
+        }
+
+        p{
+            color:#bbbbbb;
+            font-size:1.1rem;
+            line-height:1.8;
+            margin-bottom:35px;
+        }
+
+        .social a{
+            display:inline-block;
+            margin:6px;
+            padding:12px 24px;
+            border:1px solid rgba(255,255,255,.2);
+            border-radius:40px;
+            color:white;
+            text-decoration:none;
+            transition:.25s;
+        }
+
+        .social a:hover{
+            background:white;
+            color:#101416;
+        }
+
+        footer{
+            margin-top:40px;
+            color:#666;
+            font-size:.9rem;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <img src="paul-manning.jpg" alt="Paul Manning">
+
+    <h1>Sabina Manning</h1>
+
+    <p> Offical page of Sabina Manning <p>
+
+    <div class="social">
+        <a href="https://#">Facebook</a>
+        <a href="https://https://www.linkedin.com/in/sabina-manning-106517107/">LinkedIn</a>
+        <a href="https://https://www.instagram.com/sabamanning/">Instagram</a>
+    </div>
+
+    <div style="margin-top:50px;">
+
+</div>
+    <footer>
+        © 2026 Sabina Manning
+    </footer>
+
+</div>
+
+</body>
+</html>
